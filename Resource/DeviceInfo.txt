@@ -1,0 +1,14 @@
+//       capability.setCapability("deviceName","Pixel 4a");
+		 capability.setCapability("udid","18221JEC200883"); //Galaxy A12: RZ8R81BRWDB
+		 
+		 capability.setCapability("deviceName","Galaxy A12");
+		 capability.setCapability("udid","RZ8R81BRWDB");
+		
+		 capability.setCapability("deviceName","Galaxy A52s 5G");
+		 capability.setCapability("udid","RZCR802H2RR");
+		 capability.setCapability("platformVersion","14");
+		 
+		 capability.setCapability("deviceName","Galaxy F41");
+		 capability.setCapability("udid","RZ8NC0PMCBK");
+		 capability.setCapability("platformVersion","12");
+		 
